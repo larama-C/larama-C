@@ -18,7 +18,7 @@
 ### 🛠 Tech Stack
 
 **Languages**
-[![My Skills](https://skillicons.dev/icons?i=java, cs, cpp)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java, cs, cpp)](https://skillicons.dev)
 - Java
 - C++
 - C#
