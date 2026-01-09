@@ -4,7 +4,6 @@
 단순 기능 구현을 넘어  
 **서비스 흐름 · 확장성 · 협업 구조**를 함께 고민하는 개발을 지향합니다.
 
-![Programmers Badge](https://raw.githubusercontent.com/larama-C/programmers-badge/master/static/result.svg)
 ---
 
 ### 🧑‍💻 About Me
@@ -91,3 +90,5 @@
 ---
 
 🔥 **기술과 사람을 잇는 백엔드 개발자로 성장 중입니다.**
+
+![Programmers Badge](https://raw.githubusercontent.com/larama-C/programmers-badge/master/static/result.svg)
