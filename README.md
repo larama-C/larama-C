@@ -24,8 +24,8 @@
 **Backend**
 - Spring Boot
 - Spring Security
-- JPA (Hibernate)
-- Swagger (OpenAPI)
+- JPA
+- Swagger
 
 **Database / Infra**
 - MySQL
