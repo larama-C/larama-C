@@ -20,16 +20,16 @@
 **Languages**
 ---
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,cs)](https://skillicons.dev)
-- Java
-- C++
-- C#
 
+---
 **Backend**
-- Spring Boot
-- Spring Security
-- JPA
-- Swagger
+---
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![springsecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+---
 **Database / Infra**
 - MySQL
 - Redis
