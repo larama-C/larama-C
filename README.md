@@ -1,4 +1,4 @@
-## Hi there 👋  
+## 👋 Hi there!
 백엔드 개발자 **최병준**입니다.
 
 단순 기능 구현을 넘어  
@@ -17,26 +17,26 @@
 ### 🛠 Tech Stack
 
 **Languages**
-- Java  
-- C++  
+- Java
+- C++
 - C#
 
 **Backend**
-- Spring Boot  
-- Spring Security  
-- JPA (Hibernate)  
+- Spring Boot
+- Spring Security
+- JPA (Hibernate)
 - Swagger (OpenAPI)
 
 **Database / Infra**
-- MySQL  
-- Redis  
-- AWS EC2 / S3  
-- Docker  
+- MySQL
+- Redis
+- AWS EC2 / S3
+- Docker
 
 **Collaboration**
-- Git / GitHub  
-- GitHub Actions (CI/CD)  
-- Notion / Slack  
+- Git / GitHub
+- GitHub Actions (CI/CD)
+- Notion / Slack
 
 ---
 
@@ -71,8 +71,8 @@
 - 인증 도메인 및 공통 인프라 구조를 팀 표준으로 정립
 - PO 경험을 통해 **기술과 기획을 연결하는 시야 확보**
 
-👉 Service: http://naeconcertbutakhae.shop/  
-👉 GitHub: [프로젝트_레포_링크](https://github.com/prgrms-web-devcourse-final-project/WEB7_9_codecrete_BE)
+👉 **Service**: http://naeconcertbutakhae.shop/  
+👉 **GitHub**: https://github.com/prgrms-web-devcourse-final-project/WEB7_9_codecrete_BE
 
 ---
 
@@ -84,8 +84,8 @@
 ---
 
 ### 📫 Contact
-- Email: byeongjunechoi@gmail.com  
-- GitHub: https://github.com/larama-C  
+- **Email**: byeongjunechoi@gmail.com
+- **GitHub**: https://github.com/larama-C
 
 ---
 
