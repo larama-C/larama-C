@@ -5,6 +5,7 @@
 **서비스 흐름 · 확장성 · 협업 구조**를 함께 고민하는 개발을 지향합니다.
 
 ---
+![Notion](https://www.notion.so/larama/2e35746453fe81dea0beea9a2231f894?source=copy_link)
 
 ### 🧑‍💻 About Me
 - Java · Spring Boot 기반 **백엔드 개발자**
