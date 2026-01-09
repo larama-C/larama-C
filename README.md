@@ -33,58 +33,18 @@
 
 ---
 **Database / Infra**
-- MySQL
-- Redis
-- AWS EC2 / S3
-- Docker
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 **Collaboration**
-- Git / GitHub
-- GitHub Actions (CI/CD)
-- Notion / Slack
-
----
-
-### 🚀 Main Project
-
-## 🎵 내 콘서트를 부탁해 (NCB)
-> 공연 일정 탐색부터 예매 알림, 외출 계획, 동행자 협업까지  
-> **공연 하루를 통합 관리하는 플랫폼**
-
-- **기간**: 2025.12 ~ 2026.01 (5주)
-- **인원**: 총 9명 (FE 3 / BE 6)
-- **역할**: 백엔드 개발자 · PO(Product Owner)
-
-### 🔹 담당 역할
-- 서비스 **핵심 기능 정의 및 우선순위 수립**
-- FE–BE 협업을 위한 **요구사항 명세 및 API 설계 주도**
-- 스프린트 계획, WBS 관리 등 **프로젝트 운영 전반 담당**
-
-### 🔹 백엔드 구현
-- JWT 기반 **인증/인가 시스템 구현**
-  - Access / Refresh Token 분리
-  - Redis TTL 기반 Refresh Token 관리
-- Spring Security 설정 및 예외 처리 구조화
-- JPA 기반 도메인 모델링 및 연관관계 설계
-- Swagger(OpenAPI) 기반 API 문서 자동화
-- AWS EC2 + Docker 기반 배포 환경 구성
-- S3 기반 파일 업로드 구조 설계
-- Mailgun API 연동을 고려한 이메일 발송 구조 설계
-
-### 🔹 성과
-- FE–BE 협업 효율 향상 (요구사항/책임 범위 명확화)
-- 인증 도메인 및 공통 인프라 구조를 팀 표준으로 정립
-- PO 경험을 통해 **기술과 기획을 연결하는 시야 확보**
-
-👉 **Service**: http://naeconcertbutakhae.shop/  
-👉 **GitHub**: https://github.com/prgrms-web-devcourse-final-project/WEB7_9_codecrete_BE
-
----
-
-### 📚 Experience & Learning
-- 프로그래머스 데브코스 웹 백엔드 과정 수료
-- 실무형 팀 프로젝트 다수 진행
-- 인증, 협업 구조, 서비스 설계에 대한 이해도 향상
+![Github](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GithubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
