@@ -72,7 +72,7 @@
 - PO 경험을 통해 **기술과 기획을 연결하는 시야 확보**
 
 👉 Service: http://naeconcertbutakhae.shop/  
-👉 GitHub: 프로젝트_레포_링크
+👉 GitHub: [프로젝트_레포_링크](https://github.com/prgrms-web-devcourse-final-project/WEB7_9_codecrete_BE)
 
 ---
 
@@ -84,7 +84,7 @@
 ---
 
 ### 📫 Contact
-- Email: your_email@example.com  
+- Email: byeongjunechoi@gmail.com  
 - GitHub: https://github.com/larama-C  
 
 ---
